@@ -4,7 +4,7 @@ The *Intl* extensions provides the `localizeddate`, `localizednumber` and `local
 
 ## Installation
 
-First, install the Extensions library. Next, add the extension:
+First, install the Extensions library. Next, add the extension to Twig:
 
 ```php
 use Twig\Extensions\IntlExtension;
