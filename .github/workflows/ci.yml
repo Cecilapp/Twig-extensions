@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - 'master'
+      - '1.5.4'
 
 env:
   fail-fast: true
